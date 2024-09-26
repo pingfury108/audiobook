@@ -52,14 +52,7 @@ export async function get(context) {
                 rel: "self",
                 type: "application/rss+xml",
               },
-            },
-            {
-              $: {
-                href: `https://pubsubhubbub.appspot.com/`,
-                rel: "hub",
-                type: "application/rss+xml",
-              },
-            },
+            }
           ],
         },
       ],
@@ -103,7 +96,7 @@ export async function get(context) {
       enclosure: {
         $: {
           url: isFullUrl(episode.data.audioUrl) ? episode.data.audioUrl : astropodConfig.link + episode.data.audioUrl,
-          length: episode.data.size && episode.data.size * 1000000,
+          length: episode.data.size && episode.data.size * 1024,
           type: "audio/mpeg",
         },
       },

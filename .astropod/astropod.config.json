@@ -2,22 +2,23 @@
   "copyright": "",
   "theme": "light",
   "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
+  "author": "pingfury",
+  "name": "pingfury 的有声书",
   "banner": "/banner.webp",
   "pageSize": 15,
   "fundingUrl": "",
-  "owner": "",
+  "owner": "pingfury",
   "favicon": "/favicon.svg",
   "explicit": false,
   "cover": "/cover.jpg",
-  "language": "en",
-  "link": "https://your-website-url.netlify.app",
-  "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "language": "zh",
+  "link": "https://ab.pingfury.top",
+  "email": "pingfury@outlook.com",
+  "description": "为自己制作的有声书，方便骑行听",
   "category": [
-    "Technology",
-    "Business"
+    "有声书",
+    "读书",
+    "骑行"
   ],
   "feedSize": ""
 }

@@ -1,13 +1,13 @@
 {
-  "name": "",
-  "description": "Astropod is a free and open-source serverless podcast template. Host your podcast for free using online third-party services.",
+  "name": "audiobook",
+  "description": "有声书",
   "type": "module",
-  "author": "Manuel Ernesto Garcia",
-  "version": "1.0.0",
+  "author": "pingfury",
+  "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
