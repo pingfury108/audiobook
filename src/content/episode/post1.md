@@ -1,9 +1,9 @@
 ---
 title: 《漫步华尔街》第一章：坚实基础与空中楼阁
-audioUrl: https://abook.pingfury.top/%E6%BC%AB%E6%AD%A5%E5%8D%8E%E5%B0%94%E8%A1%97-01-luvvoice.com-20240926-PsQS.mp3
-pubDate: Sep 26 2024 15:48:00
-duration: 0:23:59
-size: 11712
+audioUrl: https://abook.pingfury.top/%E6%BC%AB%E6%AD%A5%E5%8D%8E%E5%B0%94%E8%A1%97-01.mp3
+pubDate: Sep 29 2024 17:40:00
+duration: 0:25:14
+size: 8876
 cover: ""
 explicit: false
 episode: 1

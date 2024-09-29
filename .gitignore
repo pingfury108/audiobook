@@ -23,3 +23,5 @@ pnpm-debug.log*
 
 # VScode
 .vscode/
+
+tmp.txt
