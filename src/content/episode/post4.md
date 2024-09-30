@@ -1,5 +1,5 @@
 ---
-title: 《漫步华尔街》第三章: 20世纪60~90年代的投机泡沫
+title: 《漫步华尔街》第三章：20世纪60~90年代的投机泡沫
 audioUrl: https://abook.pingfury.top/%E6%BC%AB%E6%AD%A5%E5%8D%8E%E5%B0%94%E8%A1%97-03.mp3
 pubDate: Sep 30 2024 11:48:00
 duration: 0:52:22
