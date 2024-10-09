@@ -1,9 +1,9 @@
 ---
 title: 《漫步华尔街》第二章：大众疯狂
-audioUrl: https://abook.pingfury.top/%E6%BC%AB%E6%AD%A5%E5%8D%8E%E5%B0%94%E8%A1%97-02.mp3
-pubDate: Sep 29 2024 17:41:00
-duration: 0:40:22
-size: 14196
+audioUrl: https://abook.pingfury.top/%E6%BC%AB%E6%AD%A5%E5%8D%8E%E5%B0%94%E8%A1%97-02-tmpnf_qc5s3.mp3
+pubDate: Oct 9 2024 17:22:00
+duration: 0:38:47
+size: 13640
 cover: ""
 explicit: false
 episode: 1
